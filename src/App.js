@@ -1,3 +1,10 @@
+/*  Note:
+  1.) Not optimal for devices having width lower than 700-800px, due to lack of time
+  2.) live hosting: https://dashboard27.netlify.app/
+
+*/
+
+
 import './App.css';
 import { Route, Routes } from 'react-router-dom';
 
